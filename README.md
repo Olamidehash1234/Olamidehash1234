@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olamidehash1234
-- 👀 I’m interested in learning 3d animation
+- 👀 I’m interested in learning 3D Animation
 - 🌱 I’m currently learning full stack engineering
 - 💞️ I’m looking to collaborate on an e-commerce website
 - 📫 How to reach me whatsapp no 07061766367
