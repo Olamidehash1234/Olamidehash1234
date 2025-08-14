@@ -1,13 +1,13 @@
 # Hi, I'm Olamide! 👋
 
-I am a passionate Computer Science student at The Federal Polytechnic Ilaro, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Web developer, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![Olamidehash1234's Stats](https://github-readme-stats.vercel.app/api?username=Olamidehash1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my BSC in Computer Science.
-- 📝 I have developed in-depth, long-form solutions on my website accumulating over 1k views within just 3 months.
+- 📝 I have developed in-depth, long-form solutions on my so many client website accumulating over 5k views within just 3 months.
 
 
 ## Tech Stack
@@ -42,11 +42,10 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning, AI.
-- 🌱 I’m currently learning Full stack development
 - 👯 I’m looking to collaborate on innovative,world changing startups and businesses
-- 🤔 I’m looking for help with website devlopment
+- 🤔 I’m looking to help with website devlopment
 - 💬 Ask me about User interface design 
-- 📫 How to reach me: Olamideadeola@gmail.com
+- 📫 How to reach me: olamideadeola2005@gmail.com
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Just Hellcats 
 -->
