@@ -1,4 +1,4 @@
-# Hi, I'm Olamide! 👋
+# Hi, I'm Olamide Adeola! 👋
 
 I am a passionate Web developer, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
@@ -7,7 +7,7 @@ I am a passionate Web developer, driven by a curiosity for technology and a love
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my BSC in Computer Science.
-- 📝 I have developed in-depth, long-form solutions on my so many client website accumulating over 5k views within just 3 months.
+- 📝 I have developed in-depth, long-form solutions for so many client websites, accumulating over 5k views within just 3 months.
 
 
 ## Tech Stack
@@ -25,13 +25,13 @@ I am a passionate Web developer, driven by a curiosity for technology and a love
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
--  winner @ cardtonic upskill 2024.
+-  Winner @ cardtonic upskill 2024.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedln]([https://twitter.com/](https://www.linkedin.com/in/olamide-adeola-30b346274/))
-- Also on [Twitter]([[https://](https://x.com/born_blakk))
+- Connect with me on ![Linkedln]([https://twitter.com/](https://www.linkedin.com/in/olamide-adeola-30b346274/))
+- Also on ![Twitter]([[https://](https://x.com/born_blakk))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
@@ -41,9 +41,9 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning, AI.
-- 👯 I’m looking to collaborate on innovative,world changing startups and businesses
-- 🤔 I’m looking to help with website devlopment
+- 🔭 I’m currently working on Machine Learning and AI.
+- 👯 I’m looking to collaborate on innovative, world-changing startups and businesses
+- 🤔 I’m looking to help with website development
 - 💬 Ask me about User interface design 
 - 📫 How to reach me: olamideadeola2005@gmail.com
 - 😄 Pronouns: HIM
