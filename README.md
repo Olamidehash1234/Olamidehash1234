@@ -13,15 +13,6 @@ I am a passionate Web developer, driven by a curiosity for technology and a love
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=javascript,python,typescript,Vue.js,Nuxt.js)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
@@ -30,8 +21,8 @@ I am a passionate Web developer, driven by a curiosity for technology and a love
 
 ## 📬 Get in Touch
 
-- Connect with me on ![Linkedln]([https://twitter.com/](https://www.linkedin.com/in/olamide-adeola-30b346274/))
-- Also on ![Twitter]([[https://](https://x.com/born_blakk))
+- Connect with me on [Linkedln]([https://twitter.com/](https://www.linkedin.com/in/olamide-adeola-30b346274/))
+- Also on [Twitter]([[https://](https://x.com/born_blakk))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
