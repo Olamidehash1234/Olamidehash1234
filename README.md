@@ -11,7 +11,7 @@ I am a passionate Web developer, driven by a curiosity for technology and a love
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,Vue.js,Nuxt.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,typescript,Vue.js,Nuxt.js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
